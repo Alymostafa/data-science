@@ -57,4 +57,4 @@ Name | Author | ISBN
 ### Linear Algebra
 
 Name | Author | ISBN 
-:-- | :--: | :--:
+Introduction to Linear Algebra |Gilbert Strang |978-09802327-7-6
